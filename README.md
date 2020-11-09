@@ -16,7 +16,7 @@ in the future.
 
 ## Problem Statement
 
-- Churn/Exit of new customers according their historical data
+- Churn/Exit of new customers according to their historical data
 
 ## Business Question
 
