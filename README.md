@@ -21,8 +21,8 @@ in the future.
 ## Business Question
 
 - How does features (demographic information) affect customer's tendency to quit ?
-- How to predict customers exit tendency from different generation 
-- What's the best machine Learning modeling for this Cross Sell case
+- How to predict customers exit tendency from different group of age
+- What's the best machine Learning modeling for this Churn Prediction Case
 
 
 ## Business Goals
